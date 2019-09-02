@@ -9,7 +9,7 @@ Free Admin Panel Package build on the top of Codeigniter. It Includes UI design 
 
 
 # Features:
-----
+
 
 #### User Authentication
 - User registration
@@ -26,7 +26,7 @@ Free Admin Panel Package build on the top of Codeigniter. It Includes UI design 
 - Manage permissions
 - Assign permission to User Type
 
-#### Other
+#### Other features
 - Built with CodeIgniter 3.x
 - Avatar and logo upload
 - Built using AdminLTE
@@ -36,25 +36,22 @@ Free Admin Panel Package build on the top of Codeigniter. It Includes UI design 
 - Site Logo, Title, Favicon Change settings
 
 #### Installation
-----
 - Download the code or clone the repository
 - Upload the code on your server
 - Go to the Igniter Admin location and it will install automatically.
 
 #### Customisation Request
-----
 We offer Custom modifications 
 services as per your requirements. Feel free to contact us.
 
 #### License
-----
 No licence, Free to use, modify and distribute
 
-----
+
 <p align="center">
   <br>
   Brought to you by<br>
-  <a href="https://www.ibrinfotech.com">
+  <a href="https://www.ibrinfotech.com">IBR INFOTECH
   <img src="https://www.ibrinfotech.com/ibr_images/ibr_logo_head.png">
   </a>
 </p>
